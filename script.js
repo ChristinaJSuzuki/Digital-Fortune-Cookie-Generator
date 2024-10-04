@@ -27,3 +27,8 @@ const fortuneMessages = [
   "You will be hungry again in one hour.",
   "Fortune favors the brave.",
 ];
+
+// Random fortune generator function
+function generateRandomNumber(num) {
+  return Math.floor(Math.random() * num);
+}
