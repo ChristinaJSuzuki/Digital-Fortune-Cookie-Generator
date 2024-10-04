@@ -37,3 +37,21 @@ function generateRandomNumber(num) {
 function createFortune() {
   return fortuneMessages[generateRandomNumber(fortuneMessages.length)];
 }
+
+// Function to simulate the fortune cookie cracking
+function crackFortuneCookie() {
+  // Display the whole cookie first
+  console.log("Here is your fortune cookie:");
+  console.log(wholeCookie);
+
+  // Simulate cracking the cookie open
+  console.log("Cracking the cookie...");
+  setTimeout(() => {
+    // Display the split cookie
+    console.log(splitCookie);
+
+    // Display the fortune message
+    let fortune = createFortune();
+    console.log(`Your fortune: "${fortune}"`);
+  }, 1000); // 1-second delay to simulate the cracking effect
+}
