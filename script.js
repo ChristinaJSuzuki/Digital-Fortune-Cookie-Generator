@@ -55,3 +55,6 @@ function crackFortuneCookie() {
     console.log(`Your fortune: "${fortune}"`);
   }, 1000); // 1-second delay to simulate the cracking effect
 }
+
+// Call the function to "crack" the cookie
+crackFortuneCookie();
