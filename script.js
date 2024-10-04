@@ -32,3 +32,8 @@ const fortuneMessages = [
 function generateRandomNumber(num) {
   return Math.floor(Math.random() * num);
 }
+
+// Function to create a random fortune
+function createFortune() {
+  return fortuneMessages[generateRandomNumber(fortuneMessages.length)];
+}
