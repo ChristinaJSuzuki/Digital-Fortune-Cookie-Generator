@@ -27,15 +27,11 @@
 ## Fortune Cookie ASCII:
 
   Whole cookie
-            _______
-          .'       '.
-         /           \\
-        |             |
-         \\___________/
-     
+
+     <img width="193" alt="Screenshot 2024-10-08 at 11 47 41" src="https://github.com/user-attachments/assets/5ba48c89-5a7b-4f50-905a-dce3f2c2c5db">
+
 
   Cracked cookie
-           _______     _______
-         /       \\   /       \\
-        |         | |         |
-         \\_______/   \\_______/
+  
+     <img width="266" alt="Screenshot 2024-10-08 at 11 48 02" src="https://github.com/user-attachments/assets/36445472-a575-49d4-8c18-a0762ddefe1e">
+
